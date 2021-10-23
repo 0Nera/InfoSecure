@@ -1,2 +1,4 @@
 *.exe
 Malware/C#/SimpleWinlocker/bin/*
+Malware/C#/SimpleWinlocker/obj/*
+Malware/C#/SimpleWinlocker/.vs/*
